@@ -1,5 +1,7 @@
 # action
 
+[![Clojars Project](https://img.shields.io/clojars/v/brianium/action.svg)](https://clojars.org/brianium/action)
+
 A simple message format modeled after [flux standard actions](https://github.com/acdlite/flux-standard-action).
 
 For Clojure and ClojureScript.
